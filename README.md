@@ -8,7 +8,7 @@
 
 - 🌱 Aktualnie ucze się **C#**
 
-- 💬 Masz pytanie? Pisz. **JavaScript, TypeScript,WebDev, Python, DB**
+- 💬 Masz pytanie? Pisz. **JavaScript, TypeScript,WebDev, DB**
 
 - 📨 Dodaj mnie na discord **piotrek.mad@wp.pl**
 
