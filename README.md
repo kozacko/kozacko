@@ -12,7 +12,7 @@
 
 - 📨 Dodaj mnie na discord **piotrek.mad@wp.pl**
 
-- ⚡ Fun fact **Zaczynałem przygodę z programowaniem w minecraft.**
+- ⚡ Fun fact **Zaczynałem przygodę z programowaniem w codeblocks.**
 
 <h3 align="left">Socialki:</h3>
 <p align="left">  
