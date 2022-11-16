@@ -29,7 +29,6 @@
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=kozacko&show_icons=true&locale=en&layout=compact"
         alt="kozacko" /></p>
-        <h3 align="left">IDE:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kozacko&show_icons=true&locale=en"
         alt="kozacko" /></p>
