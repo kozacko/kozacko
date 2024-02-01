@@ -12,13 +12,9 @@
 
 - 📨 Dodaj mnie na discord **kozacko#8904**
 
-- ⚡ Fun fact **Zaczynałem przygodę z programowaniem w codeblocks.**
 
 <h3 align="left">Socialki:</h3>
 <p align="left">  
-    <a href="https://www.youtube.com/c/kozacko" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="kozacko" height="30" width="40" /></a>
     <a href="https://discord.gg/SzUk3sUjhM" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="kozacko#8904" height="30" width="40" /></a>
