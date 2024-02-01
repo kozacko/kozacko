@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kozacko&label=Profile%20views&color=0e75b6&style=flat"
         alt="kozacko" /> </p>
 
-- 🌱 Aktualnie ucze się **C#**
+- 🌱 Aktualnie Szukam pracy :D
 
-- 💬 Masz pytanie? Pisz. **JavaScript, TypeScript,WebDev, DB**
+- 💬 Masz pytanie? Pisz. **JavaScript,WebDev, DB**
 
 - 📨 Dodaj mnie na discord **kozacko#8904**
 
